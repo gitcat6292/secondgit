@@ -6,7 +6,7 @@ public class Main {
 	System.out.println("civil engineer");
 	System.out.println("bobol university");
 	System.out.println("living behshahr");
-	
+	System.out.println("gorgan street");
 		
     }
 }
