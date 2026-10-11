@@ -4,6 +4,7 @@ public class Main {
         System.out.println("by github");
 	System.out.println("amir mirzaei");
 		System.out.println("civil engineer");
+		System.out.println("bobol university");
 		
     }
 }
